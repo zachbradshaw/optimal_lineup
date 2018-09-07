@@ -1,0 +1,14 @@
+{
+  "name": "optimal_lineup",
+  "version": "1.0.0",
+  "description": "A Node script to determine the best fantasy football lineup to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
